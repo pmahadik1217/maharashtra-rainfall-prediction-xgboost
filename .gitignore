@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+env/
+.env
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+models/*.joblib
+models/*.pkl
+models/*.json
+outputs/*
+!outputs/.gitkeep

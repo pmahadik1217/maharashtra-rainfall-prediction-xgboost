@@ -1,0 +1,13 @@
+{
+  "project": "Maharashtra Rainfall Prediction using XGBoost",
+  "dataset_rows": 121904,
+  "stations": 658,
+  "date_min": "2021-01-01",
+  "date_max": "2025-07-31",
+  "target": "Manual Daily Rainfall (mm)",
+  "model": "XGBRegressor",
+  "forecast_horizon_supported_days": [
+    7,
+    90
+  ]
+}
